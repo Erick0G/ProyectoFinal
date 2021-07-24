@@ -1,0 +1,11 @@
+﻿  ProyectoFinal.cpp
+E:\Biblioteca\Documentos\PROYECTO VISUAL STUDIO\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(105,23): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+E:\Biblioteca\Documentos\PROYECTO VISUAL STUDIO\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(106,24): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+E:\Biblioteca\Documentos\PROYECTO VISUAL STUDIO\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(473,24): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\Biblioteca\Documentos\PROYECTO VISUAL STUDIO\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(998,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\Biblioteca\Documentos\PROYECTO VISUAL STUDIO\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(999,11): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\Biblioteca\Documentos\PROYECTO VISUAL STUDIO\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1003,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\Biblioteca\Documentos\PROYECTO VISUAL STUDIO\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1004,18): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\Biblioteca\Documentos\PROYECTO VISUAL STUDIO\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1006,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+E:\Biblioteca\Documentos\PROYECTO VISUAL STUDIO\ProyectoFinal\ProyectoFinal\ProyectoFinal.cpp(1007,10): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  ProyectoFinal.vcxproj -> E:\Biblioteca\Documentos\PROYECTO VISUAL STUDIO\ProyectoFinal\Debug\ProyectoFinal.exe
